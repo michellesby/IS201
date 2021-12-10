@@ -1,0 +1,41 @@
+.add {
+    background-color: rgb(228, 218, 218);
+    border: solid 2px white;
+    position: absolute;
+}
+.tree {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75vw;
+}
+.header {
+    text-align: center;
+    resize: horizontal;
+    display: block;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.body {
+    resize: both;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: pink);
+}
+
+.footer {
+    text-decoration: crimson;
+    text-align: center;
+    display: block;
+    resize: horizontal;
+}
+      
+.box {
+     border-width: 7px;
+     border-style: solid;
+     border-color: black; 
+     border: 8px solid black;
+     margin: 50px;
+ }
